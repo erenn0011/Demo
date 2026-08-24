@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "zoxwXuV1zsc=",
+  "success": true,
+  "projectFilePath": "D:\\SOLITON TIPS\\S-PracticeApp\\PracticeApplication\\LibManager\\LibManager.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\arunr\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.30\\microsoft.windowsdesktop.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\arunr\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.30\\microsoft.netcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\arunr\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.30\\microsoft.aspnetcore.app.ref.8.0.30.nupkg.sha512",
+    "C:\\Users\\arunr\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.30\\microsoft.netcore.app.host.win-x64.8.0.30.nupkg.sha512"
+  ],
+  "logs": []
+}
